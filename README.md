@@ -11,18 +11,17 @@ It covers everything from basic GCP installation to full off-grid automation usi
 ---
 
 ## 🚀 Key Features of the Mission Generator (Python Suite)
-The Python scripts included in this repository allow you to bypass the limitations of standard DJI flight apps, enabling complex, highly customized data acquisition.
+The Python scripts included in this repository allow you to bypass the limitations of standard DJI flight apps, enabling complex, highly customized data acquisition tailored for field phenomics.
 
 **Supported Hardware:**
 * DJI Mavic 3 Multispectral (M3M)
 * DJI Matrice 300 / 350 / 400 RTK + Zenmuse P1
 
 **Available Mission Templates:**
-* **Ultra-Low Altitude Terrain Follow:** 3m AGL arbitrary waypoint flights.
-* **Custom Altitude Mapping:** Grid mapping at any specified altitude.
-* **CCO & Dome CCO:** Cylindrical and dome-shaped flight paths for flawless 3D model reconstruction of individual tree crowns or structures.
-* **Linear Interval Shooting:** Transect or crop-row following with precise distance/time interval captures.
-* **POI One-Shot:** Targeted navigation to specific Points of Interest for single high-precision shots.
+* **Ultra-Low POI One-Shot:** Targeted missions that navigate to predefined Points of Interest (POI), hover, and capture a single high-precision shot before moving to the next.
+* **Arbitrary Altitude Mapping:** Custom grid mapping missions that can be set to any specific altitude requirements.
+* **CCO (Cross Circle Oblique) & Dome CCO:** Automated cylindrical and dome-shaped flight paths focusing on specific targets (e.g., individual tree crowns or complex structures) for flawless 3D model reconstruction.
+* **Linear Interval Shooting:** Flight paths designed to follow specific transects or crop rows, capturing images at precise distance or time intervals.
 
 ---
 
