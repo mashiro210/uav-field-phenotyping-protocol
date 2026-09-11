@@ -25,3 +25,19 @@ The Python scripts included in this repository allow you to bypass the limitatio
 
 ---
 
+## 2026-09-11 audited generators
+
+The files whose names begin with `20260911_` are corrected, non-destructive
+revisions of all ten original generators. Keep `wpml_safety_20260911.py` in the
+same directory when running them. Install the dependencies with:
+
+```bash
+python -m pip install -r requirements-20260911.txt
+```
+
+The revised generators verify the WGS84-to-EGM96 geoid transformation instead
+of accepting a silent no-op. For absolute-height missions, `template.kml`
+contains both WGS84 ellipsoidal and EGM96 orthometric heights, while
+`wayline.wpml` uses WGS84 ellipsoidal execution heights. See
+[`20260911_CODE_AUDIT.md`](20260911_CODE_AUDIT.md) for the complete findings and
+test results.
