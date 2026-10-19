@@ -41,3 +41,18 @@ contains both WGS84 ellipsoidal and EGM96 orthometric heights, while
 `wayline.wpml` uses WGS84 ellipsoidal execution heights. See
 [`20260911_CODE_AUDIT.md`](20260911_CODE_AUDIT.md) for the complete findings and
 test results.
+
+---
+
+## License
+
+Source code in this repository is licensed under the [MIT License](LICENSE).
+
+Documentation—including this README, other Markdown documentation, and the
+GitHub Wiki—is licensed under the [Creative Commons Attribution 4.0
+International License (CC BY 4.0)](LICENSE-DOCUMENTATION.md).
+
+Third-party trademarks, software, screenshots, images, documentation, and
+other materials—including materials from DJI, Agisoft, and other vendors—are
+not covered by these licenses unless explicitly stated. They remain subject to
+the rights and license terms of their respective owners.
