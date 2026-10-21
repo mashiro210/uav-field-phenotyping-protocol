@@ -1,0 +1,9 @@
+# Direct third-party dependencies used by the Python mission generators.
+# Python standard-library modules and wpml_safety_20260911.py do not require
+# separate installation.
+numpy>=2.0
+geopandas>=1.0
+shapely>=2.0
+rasterio>=1.4
+fiona>=1.10
+pyproj>=3.6

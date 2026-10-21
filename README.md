@@ -32,7 +32,7 @@ revisions of all ten original generators. Keep `wpml_safety_20260911.py` in the
 same directory when running them. Install the dependencies with:
 
 ```bash
-python -m pip install -r requirements-20260911.txt
+python -m pip install -r requirements.txt
 ```
 
 The revised generators verify the WGS84-to-EGM96 geoid transformation instead
