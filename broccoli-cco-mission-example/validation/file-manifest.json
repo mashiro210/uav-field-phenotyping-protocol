@@ -1,0 +1,21 @@
+{
+  ".gitignore": "544272bdceaf78da545b748174596efa80759e4a31e72562ca4d69546ae1721d",
+  "README.md": "9a6b4dd5ce9a8db7cd8800c13234967dad572e997ce5648dab609ff77ed4e0d7",
+  "data/observation-center.geojson": "65beed58fb88d2a27e7677ec86a49c7e5e5a3cf2bc39bdefa2f02dbf9a23f452",
+  "data/observation-center.kml": "22022c403639b2055488cd748808f65490c4500df931f0b3c86b45e35feb2008",
+  "data/plant-locations.geojson": "1ceae200fbf1ef7c5be48281eb4060cafcbb3f15a08518392add6c95fae86ed9",
+  "data/plant-locations.kml": "b46b48da6ce545a4f32f7bc97a122f2a0b644332f80697a2d9642af39d8705ec",
+  "data-notes.md": "2282a357337e020276d42944ded1dd3015bbaecd06af0425ed565d2b1550153a",
+  "prompt.ja.md": "aa59844c12ca1d0cec42588c3c6d8d04138e77c910110f0b4260313366a71c06",
+  "requirements.txt": "340813a0c02e2c5376b9f0e4533cf4eac122b8b8f59c3bbeedf0217a362fca7b",
+  "results/M3M-CCO-150cm.kmz": "ab01df61c3ef5f3598e5a21b263e3dcd2bf08a8b61ba9624ddd7edbf50f108b0",
+  "results/gis/estimated-footprints-rgb-ms.geojson": "f6cd5548f9be602a814c5cc504d7cf7b68572b7d73476f1ab22ae0e56b252973",
+  "results/gis/photo-positions.geojson": "ec9c803465ba1177f8271828fdf01541771243f0bc4b07d46af10fc96e6653c3",
+  "src/cco_core.py": "bdc3eaf54ea08a7da894c54fa8e6b0048ab324947475d3bd20b2142dae226113",
+  "src/export_kml.py": "0f37a6c108f753e7e24638d833e414181690026936dbdaed90f64f62bf6ee352",
+  "src/generate_mission.py": "aa3e7d9a63ccaa6e681545e9908909da44db96754e79e0372b457e76fc89fb10",
+  "src/waypoint_builder.py": "bde6f7d463d721627a4e0cbe576b2a47a85510fd77924b38790e9a361be95232",
+  "test_example.py": "8a49fc0a41c7cd1fb8c4222f5c5c2d4246baf83b66a0f47895bc92cc06b4ed44",
+  "validation/mission-control-checksums.json": "694311dc9fe5cbb782843888826f137dc38a4efa038035de9023b39bb8d5219a",
+  "validation/report.json": "b99c5b958088c874c867288dffae33f11205d9e4ab51b7e60707b218a9fbe4bd"
+}

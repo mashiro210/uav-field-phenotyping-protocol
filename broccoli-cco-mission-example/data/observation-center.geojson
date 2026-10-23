@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "name": "observation-center",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "group_id": "G1",
+        "south_to_north_order": 1,
+        "point_count": 4,
+        "center_method": "midpoint_between_second_and_third_plants",
+        "group_length_m": 1.1235062628002197,
+        "center_x_epsg6677": -26361.96920969998,
+        "center_y_epsg6677": -28866.45929173027
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.54188113416805,
+          35.73946104357517
+        ]
+      }
+    }
+  ]
+}

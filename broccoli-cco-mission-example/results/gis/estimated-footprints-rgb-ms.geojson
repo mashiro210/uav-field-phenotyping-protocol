@@ -1,0 +1,2274 @@
+{
+  "type": "FeatureCollection",
+  "name": "estimated-footprints-rgb-ms",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "group_id": "G1",
+        "area_id": "ind-pos",
+        "plant_ids": "G1-P01,G1-P02,G1-P03,G1-P04",
+        "photo_sequence": 1,
+        "file_suffix": "G1-001",
+        "sensor": "M3M-RGB",
+        "aircraft": "DJI Mavic 3 Multispectral",
+        "payload": "Integrated RGB + G/R/RE/NIR",
+        "target_agl_m": 1.5,
+        "orbit_radius_m": 1.5,
+        "orbit_angle_deg": 0.0,
+        "heading_deg": -90.0,
+        "gimbal_pitch_deg": -45.0,
+        "camera_ground_dsm_wgs84_m": 96.63883972167969,
+        "camera_wgs84_height_m": 98.13883972167969,
+        "target_dsm_wgs84_m": 96.5753402709961,
+        "horizontal_fov_deg": 71.55192511237404,
+        "vertical_fov_deg": 56.728598025722256,
+        "footprint_area_m2": 21.433578156487183,
+        "overlap_to_next_pct": 81.97172841718545,
+        "all_four_plants_covered": true,
+        "minimum_plant_edge_margin_m": 0.8498096409327167
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.54184043595848,
+              35.73942933086184
+            ],
+            [
+              139.54183929751045,
+              35.73949175581467
+            ],
+            [
+              139.54189238267801,
+              35.73947050801118
+            ],
+            [
+              139.54189272282437,
+              35.739451855962386
+            ],
+            [
+              139.54184043595848,
+              35.73942933086184
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "group_id": "G1",
+        "area_id": "ind-pos",
+        "plant_ids": "G1-P01,G1-P02,G1-P03,G1-P04",
+        "photo_sequence": 1,
+        "file_suffix": "G1-001",
+        "sensor": "M3M-MS",
+        "aircraft": "DJI Mavic 3 Multispectral",
+        "payload": "Integrated RGB + G/R/RE/NIR",
+        "target_agl_m": 1.5,
+        "orbit_radius_m": 1.5,
+        "orbit_angle_deg": 0.0,
+        "heading_deg": -90.0,
+        "gimbal_pitch_deg": -45.0,
+        "camera_ground_dsm_wgs84_m": 96.63883972167969,
+        "camera_wgs84_height_m": 98.13883972167969,
+        "target_dsm_wgs84_m": 96.5753402709961,
+        "horizontal_fov_deg": 61.2,
+        "vertical_fov_deg": 48.1,
+        "footprint_area_m2": 11.381319090656863,
+        "overlap_to_next_pct": 84.23642717759165,
+        "all_four_plants_covered": true,
+        "minimum_plant_edge_margin_m": 0.6312427345698134
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.54185295815597,
+              35.739439411646174
+            ],
+            [
+              139.54185218178603,
+              35.739481983006385
+            ],
+            [
+              139.5418909509306,
+              35.739469313873656
+            ],
+            [
+              139.5418912481662,
+              35.73945301486971
+            ],
+            [
+              139.54185295815597,
+              35.739439411646174
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "group_id": "G1",
+        "area_id": "ind-pos",
+        "plant_ids": "G1-P01,G1-P02,G1-P03,G1-P04",
+        "photo_sequence": 2,
+        "file_suffix": "G1-002",
+        "sensor": "M3M-RGB",
+        "aircraft": "DJI Mavic 3 Multispectral",
+        "payload": "Integrated RGB + G/R/RE/NIR",
+        "target_agl_m": 1.5,
+        "orbit_radius_m": 1.5,
+        "orbit_angle_deg": 17.142857142857142,
+        "heading_deg": -107.14285714584379,
+        "gimbal_pitch_deg": -45.0,
+        "camera_ground_dsm_wgs84_m": 96.60858917236328,
+        "camera_wgs84_height_m": 98.10858917236328,
+        "target_dsm_wgs84_m": 96.5753402709961,
+        "horizontal_fov_deg": 71.55192511237404,
+        "vertical_fov_deg": 56.728598025722256,
+        "footprint_area_m2": 20.612208994279968,
+        "overlap_to_next_pct": 81.6525349009914,
+        "all_four_plants_covered": true,
+        "minimum_plant_edge_margin_m": 0.8537821503526122
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.54185454516093,
+              35.73942181596223
+            ],
+            [
+              139.54183134612802,
+              35.73948004512613
+            ],
+            [
+              139.54188862463096,
+              35.73947264419598
+            ],
+            [
+              139.54189555629657,
+              35.73945524581088
+            ],
+            [
+              139.54185454516093,
+              35.73942181596223
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "group_id": "G1",
+        "area_id": "ind-pos",
+        "plant_ids": "G1-P01,G1-P02,G1-P03,G1-P04",
+        "photo_sequence": 2,
+        "file_suffix": "G1-002",
+        "sensor": "M3M-MS",
+        "aircraft": "DJI Mavic 3 Multispectral",
+        "payload": "Integrated RGB + G/R/RE/NIR",
+        "target_agl_m": 1.5,
+        "orbit_radius_m": 1.5,
+        "orbit_angle_deg": 17.142857142857142,
+        "heading_deg": -107.14285714584379,
+        "gimbal_pitch_deg": -45.0,
+        "camera_ground_dsm_wgs84_m": 96.60858917236328,
+        "camera_wgs84_height_m": 98.10858917236328,
+        "target_dsm_wgs84_m": 96.5753402709961,
+        "horizontal_fov_deg": 61.2,
+        "vertical_fov_deg": 48.1,
+        "footprint_area_m2": 10.94516865280143,
+        "overlap_to_next_pct": 83.94174324051292,
+        "all_four_plants_covered": true,
+        "minimum_plant_edge_margin_m": 0.6329938610753739
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.54186270546626,
+              35.73943421349052
+            ],
+            [
+              139.54184688464437,
+              35.7394739234893
+            ],
+            [
+              139.54188770633382,
+              35.739471187782605
+            ],
+            [
+              139.54189376353702,
+              35.739455984286764
+            ],
+            [
+              139.54186270546626,
+              35.73943421349052
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "group_id": "G1",
+        "area_id": "ind-pos",
+        "plant_ids": "G1-P01,G1-P02,G1-P03,G1-P04",
+        "photo_sequence": 3,
+        "file_suffix": "G1-003",
+        "sensor": "M3M-RGB",
+        "aircraft": "DJI Mavic 3 Multispectral",
+        "payload": "Integrated RGB + G/R/RE/NIR",
+        "target_agl_m": 1.5,
+        "orbit_radius_m": 1.5,
+        "orbit_angle_deg": 34.285714285714285,
+        "heading_deg": -124.28571428715307,
+        "gimbal_pitch_deg": -45.0,
+        "camera_ground_dsm_wgs84_m": 96.58787536621094,
+        "camera_wgs84_height_m": 98.08787536621094,
+        "target_dsm_wgs84_m": 96.5753402709961,
+        "horizontal_fov_deg": 71.55192511237404,
+        "vertical_fov_deg": 56.728598025722256,
+        "footprint_area_m2": 20.059039501316402,
+        "overlap_to_next_pct": 80.9135631693062,
+        "all_four_plants_covered": true,
+        "minimum_plant_edge_margin_m": 0.8070424032734704
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.54187024351432,
+              35.73941786700903
+            ],
+            [
+              139.54182760710677,
+              35.73946725786994
+            ],
+            [
+              139.54188424099885,
+              35.739473859902354
+            ],
+            [
+              139.54189698039357,
+              35.73945910232607
+            ],
+            [
+              139.54187024351432,
+              35.73941786700903
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "group_id": "G1",
+        "area_id": "ind-pos",
+        "plant_ids": "G1-P01,G1-P02,G1-P03,G1-P04",
+        "photo_sequence": 3,
+        "file_suffix": "G1-003",
+        "sensor": "M3M-MS",
+        "aircraft": "DJI Mavic 3 Multispectral",
+        "payload": "Integrated RGB + G/R/RE/NIR",
+        "target_agl_m": 1.5,
+        "orbit_radius_m": 1.5,
+        "orbit_angle_deg": 34.285714285714285,
+        "heading_deg": -124.28571428715307,
+        "gimbal_pitch_deg": -45.0,
+        "camera_ground_dsm_wgs84_m": 96.58787536621094,
+        "camera_wgs84_height_m": 98.08787536621094,
+        "target_dsm_wgs84_m": 96.5753402709961,
+        "horizontal_fov_deg": 61.2,
+        "vertical_fov_deg": 48.1,
+        "footprint_area_m2": 10.651433352207327,
+        "overlap_to_next_pct": 83.19572542518716,
+        "all_four_plants_covered": true,
+        "minimum_plant_edge_margin_m": 0.6000399761985515
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.54187351433617,
+              35.73943148821105
+            ],
+            [
+              139.54184443798692,
+              35.73946517083596
+            ],
+            [
+              139.54188389478665,
+              35.73947226930065
+            ],
+            [
+              139.54189502704608,
+              35.739459373463056
+            ],
+            [
+              139.54187351433617,
+              35.73943148821105
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "group_id": "G1",
+        "area_id": "ind-pos",
+        "plant_ids": "G1-P01,G1-P02,G1-P03,G1-P04",
+        "photo_sequence": 4,
+        "file_suffix": "G1-004",
+        "sensor": "M3M-RGB",
+        "aircraft": "DJI Mavic 3 Multispectral",
+        "payload": "Integrated RGB + G/R/RE/NIR",
+        "target_agl_m": 1.5,
+        "orbit_radius_m": 1.5,
+        "orbit_angle_deg": 51.42857142857143,
+        "heading_deg": -141.42857142745754,
+        "gimbal_pitch_deg": -45.0,
+        "camera_ground_dsm_wgs84_m": 96.59334564208984,
+        "camera_wgs84_height_m": 98.09334564208984,
+        "target_dsm_wgs84_m": 96.5753402709961,
+        "horizontal_fov_deg": 71.55192511237404,
+        "vertical_fov_deg": 56.728598025722256,
+        "footprint_area_m2": 20.204394017560816,
+        "overlap_to_next_pct": 82.81006390962112,
+        "all_four_plants_covered": true,
+        "minimum_plant_edge_margin_m": 0.6862379740920492
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.54188631935787,
+              35.73941697072899
+            ],
+            [
+              139.5418275086666,
+              35.7394540549929
+            ],
+            [
+              139.54187942668662,
+              35.739474045420195
+            ],
+            [
+              139.54189699882744,
+              35.739462964951095
+            ],
+            [
+              139.54188631935787,
+              35.73941697072899
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "group_id": "G1",
+        "area_id": "ind-pos",
+        "plant_ids": "G1-P01,G1-P02,G1-P03,G1-P04",
+        "photo_sequence": 4,
+        "file_suffix": "G1-004",
+        "sensor": "M3M-MS",
+        "aircraft": "DJI Mavic 3 Multispectral",
+        "payload": "Integrated RGB + G/R/RE/NIR",
+        "target_agl_m": 1.5,
+        "orbit_radius_m": 1.5,
+        "orbit_angle_deg": 51.42857142857143,
+        "heading_deg": -141.42857142745754,
+        "gimbal_pitch_deg": -45.0,
+        "camera_ground_dsm_wgs84_m": 96.59334564208984,
+        "camera_wgs84_height_m": 98.09334564208984,
+        "target_dsm_wgs84_m": 96.5753402709961,
+        "horizontal_fov_deg": 61.2,
+        "vertical_fov_deg": 48.1,
+        "footprint_area_m2": 10.728617204071492,
+        "overlap_to_next_pct": 85.1371830071561,
+        "all_four_plants_covered": true,
+        "minimum_plant_edge_margin_m": 0.5586168827550645
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.54188451380716,
+              35.73943082270664
+            ],
+            [
+              139.54184440722952,
+              35.739456112716944
+            ],
+            [
+              139.54187967179917,
+              35.73947243648842
+            ],
+            [
+              139.54189502713058,
+              35.73946275387341
+            ],
+            [
+              139.54188451380716,
+              35.73943082270664
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "group_id": "G1",
+        "area_id": "ind-pos",
+        "plant_ids": "G1-P01,G1-P02,G1-P03,G1-P04",
+        "photo_sequence": 5,
+        "file_suffix": "G1-005",
+        "sensor": "M3M-RGB",
+        "aircraft": "DJI Mavic 3 Multispectral",
+        "payload": "Integrated RGB + G/R/RE/NIR",
+        "target_agl_m": 1.5,
+        "orbit_radius_m": 1.5,
+        "orbit_angle_deg": 68.57142857142857,
+        "heading_deg": -158.57142856966846,
+        "gimbal_pitch_deg": -45.0,
+        "camera_ground_dsm_wgs84_m": 96.55207061767578,
+        "camera_wgs84_height_m": 98.05207061767578,
+        "target_dsm_wgs84_m": 96.5753402709961,
+        "horizontal_fov_deg": 71.55192511237404,
+        "vertical_fov_deg": 56.728598025722256,
+        "footprint_area_m2": 19.1206042314632,
+        "overlap_to_next_pct": 82.84621403703525,
+        "all_four_plants_covered": true,
+        "minimum_plant_edge_margin_m": 0.587334111505231
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.5419016134369,
+              35.7394216302466
+            ],
+            [
+              139.541833900833,
+              35.73944235492829
+            ],
+            [
+              139.54187513257668,
+              35.73947307500014
+            ],
+            [
+              139.54189536453896,
+              35.73946688263768
+            ],
+            [
+              139.5419016134369,
+              35.7394216302466
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "group_id": "G1",
+        "area_id": "ind-pos",
+        "plant_ids": "G1-P01,G1-P02,G1-P03,G1-P04",
+        "photo_sequence": 5,
+        "file_suffix": "G1-005",
+        "sensor": "M3M-MS",
+        "aircraft": "DJI Mavic 3 Multispectral",
+        "payload": "Integrated RGB + G/R/RE/NIR",
+        "target_agl_m": 1.5,
+        "orbit_radius_m": 1.5,
+        "orbit_angle_deg": 68.57142857142857,
+        "heading_deg": -158.57142856966846,
+        "gimbal_pitch_deg": -45.0,
+        "camera_ground_dsm_wgs84_m": 96.55207061767578,
+        "camera_wgs84_height_m": 98.05207061767578,
+        "target_dsm_wgs84_m": 96.5753402709961,
+        "horizontal_fov_deg": 61.2,
+        "vertical_fov_deg": 48.1,
+        "footprint_area_m2": 10.153120322989636,
+        "overlap_to_next_pct": 85.17286799169125,
+        "all_four_plants_covered": true,
+        "minimum_plant_edge_margin_m": 0.4631830761861129
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.54189506319588,
+              35.73943408482034
+            ],
+            [
+              139.5418488858614,
+              35.739448218238735
+            ],
+            [
+              139.5418759263019,
+              35.73947163665378
+            ],
+            [
+              139.54189360590553,
+              35.73946622548744
+            ],
+            [
+              139.54189506319588,
+              35.73943408482034
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "group_id": "G1",
+        "area_id": "ind-pos",
+        "plant_ids": "G1-P01,G1-P02,G1-P03,G1-P04",
+        "photo_sequence": 6,
+        "file_suffix": "G1-006",
+        "sensor": "M3M-RGB",
+        "aircraft": "DJI Mavic 3 Multispectral",
+        "payload": "Integrated RGB + G/R/RE/NIR",
+        "target_agl_m": 1.5,
+        "orbit_radius_m": 1.5,
+        "orbit_angle_deg": 85.71428571428571,
+        "heading_deg": -175.71428571369,
+        "gimbal_pitch_deg": -45.0,
+        "camera_ground_dsm_wgs84_m": 96.59416198730469,
+        "camera_wgs84_height_m": 98.09416198730469,
+        "target_dsm_wgs84_m": 96.5753402709961,
+        "horizontal_fov_deg": 71.55192511237404,
+        "vertical_fov_deg": 56.728598025722256,
+        "footprint_area_m2": 20.226130693441103,
+        "overlap_to_next_pct": 81.1070073751138,
+        "all_four_plants_covered": true,
+        "minimum_plant_edge_margin_m": 0.5054098181312652
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.5419158885634,
+              35.739426984700984
+            ],
+            [
+              139.54184163368603,
+              35.73943061732678
+            ],
+            [
+              139.54187073365324,
+              35.73947100011098
+            ],
+            [
+              139.54189292039464,
+              35.73946991471281
+            ],
+            [
+              139.5419158885634,
+              35.739426984700984
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "group_id": "G1",
+        "area_id": "ind-pos",
+        "plant_ids": "G1-P01,G1-P02,G1-P03,G1-P04",
+        "photo_sequence": 6,
+        "file_suffix": "G1-006",
+        "sensor": "M3M-MS",
+        "aircraft": "DJI Mavic 3 Multispectral",
+        "payload": "Integrated RGB + G/R/RE/NIR",
+        "target_agl_m": 1.5,
+        "orbit_radius_m": 1.5,
+        "orbit_angle_deg": 85.71428571428571,
+        "heading_deg": -175.71428571369,
+        "gimbal_pitch_deg": -45.0,
+        "camera_ground_dsm_wgs84_m": 96.59416198730469,
+        "camera_wgs84_height_m": 98.09416198730469,
+        "target_dsm_wgs84_m": 96.5753402709961,
+        "horizontal_fov_deg": 61.2,
+        "vertical_fov_deg": 48.1,
+        "footprint_area_m2": 10.740159469163089,
+        "overlap_to_next_pct": 83.3948146921734,
+        "all_four_plants_covered": true,
+        "minimum_plant_edge_margin_m": 0.37772009530294426
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.54190481980464,
+              35.739437606223696
+            ],
+            [
+              139.54185418089557,
+              35.73944008353162
+            ],
+            [
+              139.54187204857033,
+              35.73946978266689
+            ],
+            [
+              139.54189143634827,
+              35.73946883419686
+            ],
+            [
+              139.54190481980464,
+              35.739437606223696
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "group_id": "G1",
+        "area_id": "ind-pos",
+        "plant_ids": "G1-P01,G1-P02,G1-P03,G1-P04",
+        "photo_sequence": 7,
+        "file_suffix": "G1-007",
+        "sensor": "M3M-RGB",
+        "aircraft": "DJI Mavic 3 Multispectral",
+        "payload": "Integrated RGB + G/R/RE/NIR",
+        "target_agl_m": 1.5,
+        "orbit_radius_m": 1.5,
+        "orbit_angle_deg": 102.85714285714286,
+        "heading_deg": 167.14285714275604,
+        "gimbal_pitch_deg": -45.0,
+        "camera_ground_dsm_wgs84_m": 96.5850830078125,
+        "camera_wgs84_height_m": 98.0850830078125,
+        "target_dsm_wgs84_m": 96.5753402709961,
+        "horizontal_fov_deg": 71.55192511237404,
+        "vertical_fov_deg": 56.728598025722256,
+        "footprint_area_m2": 19.98504409548444,
+        "overlap_to_next_pct": 81.3305228253187,
+        "all_four_plants_covered": true,
+        "minimum_plant_edge_margin_m": 0.4868253880209732
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.54192636241615,
+              35.73943707280339
+            ],
+            [
+              139.54185452514633,
+              35.739422785797885
+            ],
+            [
+              139.54186765350173,
+              35.73946809501894
+            ],
+            [
+              139.5418891178809,
+              35.739472363857814
+            ],
+            [
+              139.54192636241615,
+              35.73943707280339
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "group_id": "G1",
+        "area_id": "ind-pos",
+        "plant_ids": "G1-P01,G1-P02,G1-P03,G1-P04",
+        "photo_sequence": 7,
+        "file_suffix": "G1-007",
+        "sensor": "M3M-MS",
+        "aircraft": "DJI Mavic 3 Multispectral",
+        "payload": "Integrated RGB + G/R/RE/NIR",
+        "target_agl_m": 1.5,
+        "orbit_radius_m": 1.5,
+        "orbit_angle_deg": 102.85714285714286,
+        "heading_deg": 167.14285714275604,
+        "gimbal_pitch_deg": -45.0,
+        "camera_ground_dsm_wgs84_m": 96.5850830078125,
+        "camera_wgs84_height_m": 98.0850830078125,
+        "target_dsm_wgs84_m": 96.5753402709961,
+        "horizontal_fov_deg": 61.2,
+        "vertical_fov_deg": 48.1,
+        "footprint_area_m2": 10.612141483891714,
+        "overlap_to_next_pct": 83.6342145506422,
+        "all_four_plants_covered": true,
+        "minimum_plant_edge_margin_m": 0.3598989491673468
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.5419120315274,
+              35.73944451774189
+            ],
+            [
+              139.54186304133233,
+              35.73943477456536
+            ],
+            [
+              139.54186934000887,
+              35.73946725271495
+            ],
+            [
+              139.54188809655406,
+              35.7394709830194
+            ],
+            [
+              139.5419120315274,
+              35.73944451774189
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "group_id": "G1",
+        "area_id": "ind-pos",
+        "plant_ids": "G1-P01,G1-P02,G1-P03,G1-P04",
+        "photo_sequence": 8,
+        "file_suffix": "G1-008",
+        "sensor": "M3M-RGB",
+        "aircraft": "DJI Mavic 3 Multispectral",
+        "payload": "Integrated RGB + G/R/RE/NIR",
+        "target_agl_m": 1.5,
+        "orbit_radius_m": 1.5,
+        "orbit_angle_deg": 120.0,
+        "heading_deg": 149.99999999938177,
+        "gimbal_pitch_deg": -45.0,
+        "camera_ground_dsm_wgs84_m": 96.57279968261719,
+        "camera_wgs84_height_m": 98.07279968261719,
+        "target_dsm_wgs84_m": 96.5753402709961,
+        "horizontal_fov_deg": 71.55192511237404,
+        "vertical_fov_deg": 56.728598025722256,
+        "footprint_area_m2": 19.661168826282243,
+        "overlap_to_next_pct": 80.77454455590984,
+        "all_four_plants_covered": true,
+        "minimum_plant_edge_margin_m": 0.5191413296647117
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.54193252801707,
+              35.73944919891911
+            ],
+            [
+              139.54186956401512,
+              35.739418534987664
+            ],
+            [
+              139.5418657594078,
+              35.73946460818975
+            ],
+            [
+              139.54188457252454,
+              35.73947377031745
+            ],
+            [
+              139.54193252801707,
+              35.73944919891911
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "group_id": "G1",
+        "area_id": "ind-pos",
+        "plant_ids": "G1-P01,G1-P02,G1-P03,G1-P04",
+        "photo_sequence": 8,
+        "file_suffix": "G1-008",
+        "sensor": "M3M-MS",
+        "aircraft": "DJI Mavic 3 Multispectral",
+        "payload": "Integrated RGB + G/R/RE/NIR",
+        "target_agl_m": 1.5,
+        "orbit_radius_m": 1.5,
+        "orbit_angle_deg": 120.0,
+        "heading_deg": 149.99999999938177,
+        "gimbal_pitch_deg": -45.0,
+        "camera_ground_dsm_wgs84_m": 96.57279968261719,
+        "camera_wgs84_height_m": 98.07279968261719,
+        "target_dsm_wgs84_m": 96.5753402709961,
+        "horizontal_fov_deg": 61.2,
+        "vertical_fov_deg": 48.1,
+        "footprint_area_m2": 10.440162370501264,
+        "overlap_to_next_pct": 83.07134075855784,
+        "all_four_plants_covered": true,
+        "minimum_plant_edge_margin_m": 0.39324756959603935
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.5419162755094,
+              35.73945283938757
+            ],
+            [
+              139.54187333653638,
+              35.739431927791394
+            ],
+            [
+              139.541867659922,
+              35.73946421184197
+            ],
+            [
+              139.54188409967426,
+              35.73947221812349
+            ],
+            [
+              139.5419162755094,
+              35.73945283938757
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "group_id": "G1",
+        "area_id": "ind-pos",
+        "plant_ids": "G1-P01,G1-P02,G1-P03,G1-P04",
+        "photo_sequence": 9,
+        "file_suffix": "G1-009",
+        "sensor": "M3M-RGB",
+        "aircraft": "DJI Mavic 3 Multispectral",
+        "payload": "Integrated RGB + G/R/RE/NIR",
+        "target_agl_m": 1.5,
+        "orbit_radius_m": 1.5,
+        "orbit_angle_deg": 137.14285714285714,
+        "heading_deg": 132.85714285317522,
+        "gimbal_pitch_deg": -45.0,
+        "camera_ground_dsm_wgs84_m": 96.57170867919922,
+        "camera_wgs84_height_m": 98.07170867919922,
+        "target_dsm_wgs84_m": 96.5753402709961,
+        "horizontal_fov_deg": 71.55192511237404,
+        "vertical_fov_deg": 56.728598025722256,
+        "footprint_area_m2": 19.632530203096053,
+        "overlap_to_next_pct": 83.2284588096,
+        "all_four_plants_covered": true,
+        "minimum_plant_edge_margin_m": 0.5955107369927595
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.5419344791288,
+              35.7394620814205
+            ],
+            [
+              139.54188543430735,
+              35.73941768131782
+            ],
+            [
+              139.5418651563924,
+              35.73946076192424
+            ],
+            [
+              139.54187981056907,
+              35.73947402830417
+            ],
+            [
+              139.5419344791288,
+              35.7394620814205
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "group_id": "G1",
+        "area_id": "ind-pos",
+        "plant_ids": "G1-P01,G1-P02,G1-P03,G1-P04",
+        "photo_sequence": 9,
+        "file_suffix": "G1-009",
+        "sensor": "M3M-MS",
+        "aircraft": "DJI Mavic 3 Multispectral",
+        "payload": "Integrated RGB + G/R/RE/NIR",
+        "target_agl_m": 1.5,
+        "orbit_radius_m": 1.5,
+        "orbit_angle_deg": 137.14285714285714,
+        "heading_deg": 132.85714285317522,
+        "gimbal_pitch_deg": -45.0,
+        "camera_ground_dsm_wgs84_m": 96.57170867919922,
+        "camera_wgs84_height_m": 98.07170867919922,
+        "target_dsm_wgs84_m": 96.5753402709961,
+        "horizontal_fov_deg": 61.2,
+        "vertical_fov_deg": 48.1,
+        "footprint_area_m2": 10.424955141573827,
+        "overlap_to_next_pct": 85.58268363569653,
+        "all_four_plants_covered": true,
+        "minimum_plant_edge_margin_m": 0.46970869908932383
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.54191764478523,
+              35.739461654830265
+            ],
+            [
+              139.5418841981489,
+              35.739431375705955
+            ],
+            [
+              139.5418671143385,
+              35.739460839840056
+            ],
+            [
+              139.54187991982099,
+              35.73947243260284
+            ],
+            [
+              139.54191764478523,
+              35.739461654830265
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "group_id": "G1",
+        "area_id": "ind-pos",
+        "plant_ids": "G1-P01,G1-P02,G1-P03,G1-P04",
+        "photo_sequence": 10,
+        "file_suffix": "G1-010",
+        "sensor": "M3M-RGB",
+        "aircraft": "DJI Mavic 3 Multispectral",
+        "payload": "Integrated RGB + G/R/RE/NIR",
+        "target_agl_m": 1.5,
+        "orbit_radius_m": 1.5,
+        "orbit_angle_deg": 154.28571428571428,
+        "heading_deg": 115.71428570908955,
+        "gimbal_pitch_deg": -45.0,
+        "camera_ground_dsm_wgs84_m": 96.52501678466797,
+        "camera_wgs84_height_m": 98.02501678466797,
+        "target_dsm_wgs84_m": 96.5753402709961,
+        "horizontal_fov_deg": 71.55192511237404,
+        "vertical_fov_deg": 56.728598025722256,
+        "footprint_area_m2": 18.426439212373506,
+        "overlap_to_next_pct": 82.30000875658625,
+        "all_four_plants_covered": true,
+        "minimum_plant_edge_margin_m": 0.7261461498915179
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.5419296855078,
+              35.739474601059825
+            ],
+            [
+              139.54189983333612,
+              35.73942207923453
+            ],
+            [
+              139.5418659717525,
+              35.73945724042487
+            ],
+            [
+              139.54187489132204,
+              35.7394729335055
+            ],
+            [
+              139.5419296855078,
+              35.739474601059825
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "group_id": "G1",
+        "area_id": "ind-pos",
+        "plant_ids": "G1-P01,G1-P02,G1-P03,G1-P04",
+        "photo_sequence": 10,
+        "file_suffix": "G1-010",
+        "sensor": "M3M-MS",
+        "aircraft": "DJI Mavic 3 Multispectral",
+        "payload": "Integrated RGB + G/R/RE/NIR",
+        "target_agl_m": 1.5,
+        "orbit_radius_m": 1.5,
+        "orbit_angle_deg": 154.28571428571428,
+        "heading_deg": 115.71428570908955,
+        "gimbal_pitch_deg": -45.0,
+        "camera_ground_dsm_wgs84_m": 96.52501678466797,
+        "camera_wgs84_height_m": 98.02501678466797,
+        "target_dsm_wgs84_m": 96.5753402709961,
+        "horizontal_fov_deg": 61.2,
+        "vertical_fov_deg": 48.1,
+        "footprint_area_m2": 9.784515812737407,
+        "overlap_to_next_pct": 84.66149864102678,
+        "all_four_plants_covered": true,
+        "minimum_plant_edge_margin_m": 0.5939607962959815
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.5419142504333,
+              35.73947028691889
+            ],
+            [
+              139.5418938924315,
+              35.73943446910028
+            ],
+            [
+              139.54186775704162,
+              35.73945776838747
+            ],
+            [
+              139.54187555136514,
+              35.73947148171112
+            ],
+            [
+              139.5419142504333,
+              35.73947028691889
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "group_id": "G1",
+        "area_id": "ind-pos",
+        "plant_ids": "G1-P01,G1-P02,G1-P03,G1-P04",
+        "photo_sequence": 11,
+        "file_suffix": "G1-011",
+        "sensor": "M3M-RGB",
+        "aircraft": "DJI Mavic 3 Multispectral",
+        "payload": "Integrated RGB + G/R/RE/NIR",
+        "target_agl_m": 1.5,
+        "orbit_radius_m": 1.5,
+        "orbit_angle_deg": 171.42857142857142,
+        "heading_deg": 98.57142856787175,
+        "gimbal_pitch_deg": -45.0,
+        "camera_ground_dsm_wgs84_m": 96.55154418945312,
+        "camera_wgs84_height_m": 98.05154418945312,
+        "target_dsm_wgs84_m": 96.5753402709961,
+        "horizontal_fov_deg": 71.55192511237404,
+        "vertical_fov_deg": 56.728598025722256,
+        "footprint_area_m2": 19.106974346557436,
+        "overlap_to_next_pct": 81.39500616165422,
+        "all_four_plants_covered": true,
+        "minimum_plant_edge_margin_m": 0.7929688601199212
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.5419236869972,
+              35.739486083419294
+            ],
+            [
+              139.54191397508345,
+              35.73942767156527
+            ],
+            [
+              139.54186808112303,
+              35.73945359930164
+            ],
+            [
+              139.54187098295014,
+              35.73947105227093
+            ],
+            [
+              139.5419236869972,
+              35.739486083419294
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "group_id": "G1",
+        "area_id": "ind-pos",
+        "plant_ids": "G1-P01,G1-P02,G1-P03,G1-P04",
+        "photo_sequence": 11,
+        "file_suffix": "G1-011",
+        "sensor": "M3M-MS",
+        "aircraft": "DJI Mavic 3 Multispectral",
+        "payload": "Integrated RGB + G/R/RE/NIR",
+        "target_agl_m": 1.5,
+        "orbit_radius_m": 1.5,
+        "orbit_angle_deg": 171.42857142857142,
+        "heading_deg": 98.57142856787175,
+        "gimbal_pitch_deg": -45.0,
+        "camera_ground_dsm_wgs84_m": 96.55154418945312,
+        "camera_wgs84_height_m": 98.05154418945312,
+        "target_dsm_wgs84_m": 96.5753402709961,
+        "horizontal_fov_deg": 61.2,
+        "vertical_fov_deg": 48.1,
+        "footprint_area_m2": 10.145882797406408,
+        "overlap_to_next_pct": 83.7221188972183,
+        "all_four_plants_covered": true,
+        "minimum_plant_edge_margin_m": 0.5865736823513351
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.54191025602213,
+              35.73947810843639
+            ],
+            [
+              139.54190363288518,
+              35.73943827385128
+            ],
+            [
+              139.54186962394368,
+              35.739454549912935
+            ],
+            [
+              139.54187215969174,
+              35.73946980110696
+            ],
+            [
+              139.54191025602213,
+              35.73947810843639
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "group_id": "G1",
+        "area_id": "ind-pos",
+        "plant_ids": "G1-P01,G1-P02,G1-P03,G1-P04",
+        "photo_sequence": 12,
+        "file_suffix": "G1-012",
+        "sensor": "M3M-RGB",
+        "aircraft": "DJI Mavic 3 Multispectral",
+        "payload": "Integrated RGB + G/R/RE/NIR",
+        "target_agl_m": 1.5,
+        "orbit_radius_m": 1.5,
+        "orbit_angle_deg": 188.57142857142856,
+        "heading_deg": 81.42857143212825,
+        "gimbal_pitch_deg": -45.0,
+        "camera_ground_dsm_wgs84_m": 96.56278228759766,
+        "camera_wgs84_height_m": 98.06278228759766,
+        "target_dsm_wgs84_m": 96.5753402709961,
+        "horizontal_fov_deg": 71.55192511237404,
+        "vertical_fov_deg": 56.728598025722256,
+        "footprint_area_m2": 19.398998216083445,
+        "overlap_to_next_pct": 80.76574956498519,
+        "all_four_plants_covered": true,
+        "minimum_plant_edge_margin_m": 0.8426130674822432
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.5419131088771,
+              35.739495473678986
+            ],
+            [
+              139.54192503655227,
+              35.739436880342275
+            ],
+            [
+              139.54187140249624,
+              35.7394507320774
+            ],
+            [
+              139.54186783859726,
+              35.73946823926956
+            ],
+            [
+              139.5419131088771,
+              35.739495473678986
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "group_id": "G1",
+        "area_id": "ind-pos",
+        "plant_ids": "G1-P01,G1-P02,G1-P03,G1-P04",
+        "photo_sequence": 12,
+        "file_suffix": "G1-012",
+        "sensor": "M3M-MS",
+        "aircraft": "DJI Mavic 3 Multispectral",
+        "payload": "Integrated RGB + G/R/RE/NIR",
+        "target_agl_m": 1.5,
+        "orbit_radius_m": 1.5,
+        "orbit_angle_deg": 188.57142857142856,
+        "heading_deg": 81.42857143212825,
+        "gimbal_pitch_deg": -45.0,
+        "camera_ground_dsm_wgs84_m": 96.56278228759766,
+        "camera_wgs84_height_m": 98.06278228759766,
+        "target_dsm_wgs84_m": 96.5753402709961,
+        "horizontal_fov_deg": 61.2,
+        "vertical_fov_deg": 48.1,
+        "footprint_area_m2": 10.30094868629422,
+        "overlap_to_next_pct": 83.0714634648906,
+        "all_four_plants_covered": true,
+        "minimum_plant_edge_margin_m": 0.6231941679437278
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.5419030820929,
+              35.739484542824016
+            ],
+            [
+              139.54191121630348,
+              35.73944458447631
+            ],
+            [
+              139.54187254170043,
+              35.73945202094818
+            ],
+            [
+              139.54186942740455,
+              35.73946731952464
+            ],
+            [
+              139.5419030820929,
+              35.739484542824016
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "group_id": "G1",
+        "area_id": "ind-pos",
+        "plant_ids": "G1-P01,G1-P02,G1-P03,G1-P04",
+        "photo_sequence": 13,
+        "file_suffix": "G1-013",
+        "sensor": "M3M-RGB",
+        "aircraft": "DJI Mavic 3 Multispectral",
+        "payload": "Integrated RGB + G/R/RE/NIR",
+        "target_agl_m": 1.5,
+        "orbit_radius_m": 1.5,
+        "orbit_angle_deg": 205.71428571428572,
+        "heading_deg": 64.28571429091045,
+        "gimbal_pitch_deg": -45.0,
+        "camera_ground_dsm_wgs84_m": 96.56282806396484,
+        "camera_wgs84_height_m": 98.06282806396484,
+        "target_dsm_wgs84_m": 96.5753402709961,
+        "horizontal_fov_deg": 71.55192511237404,
+        "vertical_fov_deg": 56.728598025722256,
+        "footprint_area_m2": 19.40019225151134,
+        "overlap_to_next_pct": 81.37354550096886,
+        "all_four_plants_covered": true,
+        "minimum_plant_edge_margin_m": 0.8092201071565479
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.54189924161065,
+              35.73950162930998
+            ],
+            [
+              139.54193182399362,
+              35.73944850381175
+            ],
+            [
+              139.54187556311112,
+              35.73944885138501
+            ],
+            [
+              139.541865827764,
+              35.73946472483119
+            ],
+            [
+              139.54189924161065,
+              35.73950162930998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "group_id": "G1",
+        "area_id": "ind-pos",
+        "plant_ids": "G1-P01,G1-P02,G1-P03,G1-P04",
+        "photo_sequence": 13,
+        "file_suffix": "G1-013",
+        "sensor": "M3M-MS",
+        "aircraft": "DJI Mavic 3 Multispectral",
+        "payload": "Integrated RGB + G/R/RE/NIR",
+        "target_agl_m": 1.5,
+        "orbit_radius_m": 1.5,
+        "orbit_angle_deg": 205.71428571428572,
+        "heading_deg": 64.28571429091045,
+        "gimbal_pitch_deg": -45.0,
+        "camera_ground_dsm_wgs84_m": 96.56282806396484,
+        "camera_wgs84_height_m": 98.06282806396484,
+        "target_dsm_wgs84_m": 96.5753402709961,
+        "horizontal_fov_deg": 61.2,
+        "vertical_fov_deg": 48.1,
+        "footprint_area_m2": 10.301582723582337,
+        "overlap_to_next_pct": 83.69995208483942,
+        "all_four_plants_covered": true,
+        "minimum_plant_edge_margin_m": 0.5976655044092378
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.54189361201756,
+              35.739488774154495
+            ],
+            [
+              139.54191583192343,
+              35.739452544658484
+            ],
+            [
+              139.54187618574952,
+              35.73945035680289
+            ],
+            [
+              139.541867678563,
+              35.73946422773827
+            ],
+            [
+              139.54189361201756,
+              35.739488774154495
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "group_id": "G1",
+        "area_id": "ind-pos",
+        "plant_ids": "G1-P01,G1-P02,G1-P03,G1-P04",
+        "photo_sequence": 14,
+        "file_suffix": "G1-014",
+        "sensor": "M3M-RGB",
+        "aircraft": "DJI Mavic 3 Multispectral",
+        "payload": "Integrated RGB + G/R/RE/NIR",
+        "target_agl_m": 1.5,
+        "orbit_radius_m": 1.5,
+        "orbit_angle_deg": 222.85714285714286,
+        "heading_deg": 47.14285714682481,
+        "gimbal_pitch_deg": -45.0,
+        "camera_ground_dsm_wgs84_m": 96.55197143554688,
+        "camera_wgs84_height_m": 98.05197143554688,
+        "target_dsm_wgs84_m": 96.5753402709961,
+        "horizontal_fov_deg": 71.55192511237404,
+        "vertical_fov_deg": 56.728598025722256,
+        "footprint_area_m2": 19.118035910244206,
+        "overlap_to_next_pct": 80.91416560670979,
+        "all_four_plants_covered": true,
+        "minimum_plant_edge_margin_m": 0.7674953344059032
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.5418836572337,
+              35.73950379457769
+            ],
+            [
+              139.54193363144879,
+              35.73946117252733
+            ],
+            [
+              139.5418801377163,
+              35.73944808088161
+            ],
+            [
+              139.541865205843,
+              35.73946081598564
+            ],
+            [
+              139.5418836572337,
+              35.73950379457769
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "group_id": "G1",
+        "area_id": "ind-pos",
+        "plant_ids": "G1-P01,G1-P02,G1-P03,G1-P04",
+        "photo_sequence": 14,
+        "file_suffix": "G1-014",
+        "sensor": "M3M-MS",
+        "aircraft": "DJI Mavic 3 Multispectral",
+        "payload": "Integrated RGB + G/R/RE/NIR",
+        "target_agl_m": 1.5,
+        "orbit_radius_m": 1.5,
+        "orbit_angle_deg": 222.85714285714286,
+        "heading_deg": 47.14285714682481,
+        "gimbal_pitch_deg": -45.0,
+        "camera_ground_dsm_wgs84_m": 96.55197143554688,
+        "camera_wgs84_height_m": 98.05197143554688,
+        "target_dsm_wgs84_m": 96.5753402709961,
+        "horizontal_fov_deg": 61.2,
+        "vertical_fov_deg": 48.1,
+        "footprint_area_m2": 10.151756533532703,
+        "overlap_to_next_pct": 83.23353788675115,
+        "all_four_plants_covered": true,
+        "minimum_plant_edge_margin_m": 0.5934923335302403
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.54188293069734,
+              35.7394902572266
+            ],
+            [
+              139.54191701114445,
+              35.73946119066884
+            ],
+            [
+              139.54188018805962,
+              35.739449657452596
+            ],
+            [
+              139.5418671399133,
+              35.73946078596267
+            ],
+            [
+              139.54188293069734,
+              35.7394902572266
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "group_id": "G1",
+        "area_id": "ind-pos",
+        "plant_ids": "G1-P01,G1-P02,G1-P03,G1-P04",
+        "photo_sequence": 15,
+        "file_suffix": "G1-015",
+        "sensor": "M3M-RGB",
+        "aircraft": "DJI Mavic 3 Multispectral",
+        "payload": "Integrated RGB + G/R/RE/NIR",
+        "target_agl_m": 1.5,
+        "orbit_radius_m": 1.5,
+        "orbit_angle_deg": 240.0,
+        "heading_deg": 30.000000000618257,
+        "gimbal_pitch_deg": -45.0,
+        "camera_ground_dsm_wgs84_m": 96.55381774902344,
+        "camera_wgs84_height_m": 98.05381774902344,
+        "target_dsm_wgs84_m": 96.5753402709961,
+        "horizontal_fov_deg": 71.55192511237404,
+        "vertical_fov_deg": 56.728598025722256,
+        "footprint_area_m2": 19.16587447010885,
+        "overlap_to_next_pct": 81.41982790954923,
+        "all_four_plants_covered": true,
+        "minimum_plant_edge_margin_m": 0.6385029560046597
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.5418680828886,
+              35.73950256818942
+            ],
+            [
+              139.54193132529102,
+              35.739473813093234
+            ],
+            [
+              139.54188488323746,
+              35.739448416299176
+            ],
+            [
+              139.5418659869481,
+              35.73945700807528
+            ],
+            [
+              139.5418680828886,
+              35.73950256818942
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "group_id": "G1",
+        "area_id": "ind-pos",
+        "plant_ids": "G1-P01,G1-P02,G1-P03,G1-P04",
+        "photo_sequence": 15,
+        "file_suffix": "G1-015",
+        "sensor": "M3M-MS",
+        "aircraft": "DJI Mavic 3 Multispectral",
+        "payload": "Integrated RGB + G/R/RE/NIR",
+        "target_agl_m": 1.5,
+        "orbit_radius_m": 1.5,
+        "orbit_angle_deg": 240.0,
+        "heading_deg": 30.000000000618257,
+        "gimbal_pitch_deg": -45.0,
+        "camera_ground_dsm_wgs84_m": 96.55381774902344,
+        "camera_wgs84_height_m": 98.05381774902344,
+        "target_dsm_wgs84_m": 96.5753402709961,
+        "horizontal_fov_deg": 61.2,
+        "vertical_fov_deg": 48.1,
+        "footprint_area_m2": 10.177159008640764,
+        "overlap_to_next_pct": 83.7448315916818,
+        "all_four_plants_covered": true,
+        "minimum_plant_edge_margin_m": 0.514205036797735
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.54187228812808,
+              35.73948944127896
+            ],
+            [
+              139.54191541695315,
+              35.73946983143754
+            ],
+            [
+              139.54188436070436,
+              35.739449936824364
+            ],
+            [
+              139.54186784827183,
+              35.73945744470706
+            ],
+            [
+              139.54187228812808,
+              35.73948944127896
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "group_id": "G1",
+        "area_id": "ind-pos",
+        "plant_ids": "G1-P01,G1-P02,G1-P03,G1-P04",
+        "photo_sequence": 16,
+        "file_suffix": "G1-016",
+        "sensor": "M3M-RGB",
+        "aircraft": "DJI Mavic 3 Multispectral",
+        "payload": "Integrated RGB + G/R/RE/NIR",
+        "target_agl_m": 1.5,
+        "orbit_radius_m": 1.5,
+        "orbit_angle_deg": 257.1428571428571,
+        "heading_deg": 12.857142857244014,
+        "gimbal_pitch_deg": -45.0,
+        "camera_ground_dsm_wgs84_m": 96.56580352783203,
+        "camera_wgs84_height_m": 98.06580352783203,
+        "target_dsm_wgs84_m": 96.5753402709961,
+        "horizontal_fov_deg": 71.55192511237404,
+        "vertical_fov_deg": 56.728598025722256,
+        "footprint_area_m2": 19.477883383389916,
+        "overlap_to_next_pct": 82.60388890293765,
+        "all_four_plants_covered": true,
+        "minimum_plant_edge_margin_m": 0.5437767738544054
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.54185345522117,
+              35.73949799049048
+            ],
+            [
+              139.54192485815386,
+              35.73948561110941
+            ],
+            [
+              139.54188937591212,
+              35.7394498949352
+            ],
+            [
+              139.5418680413296,
+              35.73945359378806
+            ],
+            [
+              139.54185345522117,
+              35.73949799049048
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "group_id": "G1",
+        "area_id": "ind-pos",
+        "plant_ids": "G1-P01,G1-P02,G1-P03,G1-P04",
+        "photo_sequence": 16,
+        "file_suffix": "G1-016",
+        "sensor": "M3M-MS",
+        "aircraft": "DJI Mavic 3 Multispectral",
+        "payload": "Integrated RGB + G/R/RE/NIR",
+        "target_agl_m": 1.5,
+        "orbit_radius_m": 1.5,
+        "orbit_angle_deg": 257.1428571428571,
+        "heading_deg": 12.857142857244014,
+        "gimbal_pitch_deg": -45.0,
+        "camera_ground_dsm_wgs84_m": 96.56580352783203,
+        "camera_wgs84_height_m": 98.06580352783203,
+        "target_dsm_wgs84_m": 96.5753402709961,
+        "horizontal_fov_deg": 61.2,
+        "vertical_fov_deg": 48.1,
+        "footprint_area_m2": 10.342837037293615,
+        "overlap_to_next_pct": 84.9164810437712,
+        "all_four_plants_covered": true,
+        "minimum_plant_edge_margin_m": 0.41847119116458653
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.5418622905405,
+              35.73948636383424
+            ],
+            [
+              139.54191098452358,
+              35.739477921584644
+            ],
+            [
+              139.54188831836458,
+              35.739451233099075
+            ],
+            [
+              139.54186967524106,
+              35.73945446532406
+            ],
+            [
+              139.5418622905405,
+              35.73948636383424
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "group_id": "G1",
+        "area_id": "ind-pos",
+        "plant_ids": "G1-P01,G1-P02,G1-P03,G1-P04",
+        "photo_sequence": 17,
+        "file_suffix": "G1-017",
+        "sensor": "M3M-RGB",
+        "aircraft": "DJI Mavic 3 Multispectral",
+        "payload": "Integrated RGB + G/R/RE/NIR",
+        "target_agl_m": 1.5,
+        "orbit_radius_m": 1.5,
+        "orbit_angle_deg": 274.2857142857143,
+        "heading_deg": -4.285714286310025,
+        "gimbal_pitch_deg": -45.0,
+        "camera_ground_dsm_wgs84_m": 96.60440826416016,
+        "camera_wgs84_height_m": 98.10440826416016,
+        "target_dsm_wgs84_m": 96.5753402709961,
+        "horizontal_fov_deg": 71.55192511237404,
+        "vertical_fov_deg": 56.728598025722256,
+        "footprint_area_m2": 20.499950302802286,
+        "overlap_to_next_pct": 81.9087398248629,
+        "all_four_plants_covered": true,
+        "minimum_plant_edge_margin_m": 0.48649148170204065
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.5418402577571,
+              35.73949078851453
+            ],
+            [
+              139.54191484723202,
+              35.73949625596308
+            ],
+            [
+              139.5418933103091,
+              35.739452494991774
+            ],
+            [
+              139.5418710236158,
+              35.73945086136546
+            ],
+            [
+              139.5418402577571,
+              35.73949078851453
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "group_id": "G1",
+        "area_id": "ind-pos",
+        "plant_ids": "G1-P01,G1-P02,G1-P03,G1-P04",
+        "photo_sequence": 17,
+        "file_suffix": "G1-017",
+        "sensor": "M3M-MS",
+        "aircraft": "DJI Mavic 3 Multispectral",
+        "payload": "Integrated RGB + G/R/RE/NIR",
+        "target_agl_m": 1.5,
+        "orbit_radius_m": 1.5,
+        "orbit_angle_deg": 274.2857142857143,
+        "heading_deg": -4.285714286310025,
+        "gimbal_pitch_deg": -45.0,
+        "camera_ground_dsm_wgs84_m": 96.60440826416016,
+        "camera_wgs84_height_m": 98.10440826416016,
+        "target_dsm_wgs84_m": 96.5753402709961,
+        "horizontal_fov_deg": 61.2,
+        "vertical_fov_deg": 48.1,
+        "footprint_area_m2": 10.885558820133742,
+        "overlap_to_next_pct": 84.20847360800093,
+        "all_four_plants_covered": true,
+        "minimum_plant_edge_margin_m": 0.3579403383046482
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.54185323155932,
+              35.7394815688391
+            ],
+            [
+              139.54190409863804,
+              35.73948529742314
+            ],
+            [
+              139.54189177724518,
+              35.739453546103626
+            ],
+            [
+              139.5418723021242,
+              35.73945211856704
+            ],
+            [
+              139.54185323155932,
+              35.7394815688391
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "group_id": "G1",
+        "area_id": "ind-pos",
+        "plant_ids": "G1-P01,G1-P02,G1-P03,G1-P04",
+        "photo_sequence": 18,
+        "file_suffix": "G1-018",
+        "sensor": "M3M-RGB",
+        "aircraft": "DJI Mavic 3 Multispectral",
+        "payload": "Integrated RGB + G/R/RE/NIR",
+        "target_agl_m": 1.5,
+        "orbit_radius_m": 1.5,
+        "orbit_angle_deg": 291.42857142857144,
+        "heading_deg": -21.428571430331544,
+        "gimbal_pitch_deg": -45.0,
+        "camera_ground_dsm_wgs84_m": 96.57927703857422,
+        "camera_wgs84_height_m": 98.07927703857422,
+        "target_dsm_wgs84_m": 96.5753402709961,
+        "horizontal_fov_deg": 71.55192511237404,
+        "vertical_fov_deg": 56.728598025722256,
+        "footprint_area_m2": 19.831627970525552,
+        "overlap_to_next_pct": 81.08145051368884,
+        "all_four_plants_covered": true,
+        "minimum_plant_edge_margin_m": 0.4977095009965391
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.54183224198889,
+              35.7394791326819
+            ],
+            [
+              139.54190040200154,
+              35.73950190132219
+            ],
+            [
+              139.5418957212997,
+              35.739455681348815
+            ],
+            [
+              139.5418753556718,
+              35.73944887827491
+            ],
+            [
+              139.54183224198889,
+              35.7394791326819
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "group_id": "G1",
+        "area_id": "ind-pos",
+        "plant_ids": "G1-P01,G1-P02,G1-P03,G1-P04",
+        "photo_sequence": 18,
+        "file_suffix": "G1-018",
+        "sensor": "M3M-MS",
+        "aircraft": "DJI Mavic 3 Multispectral",
+        "payload": "Integrated RGB + G/R/RE/NIR",
+        "target_agl_m": 1.5,
+        "orbit_radius_m": 1.5,
+        "orbit_angle_deg": 291.42857142857144,
+        "heading_deg": -21.428571430331544,
+        "gimbal_pitch_deg": -45.0,
+        "camera_ground_dsm_wgs84_m": 96.57927703857422,
+        "camera_wgs84_height_m": 98.07927703857422,
+        "target_dsm_wgs84_m": 96.5753402709961,
+        "horizontal_fov_deg": 61.2,
+        "vertical_fov_deg": 48.1,
+        "footprint_area_m2": 10.530676883621869,
+        "overlap_to_next_pct": 83.38282711013424,
+        "all_four_plants_covered": true,
+        "minimum_plant_edge_margin_m": 0.37127117915308866
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.54184771410357,
+              35.73947353389718
+            ],
+            [
+              139.54189419654423,
+              35.739489061211515
+            ],
+            [
+              139.54189390665385,
+              35.7394563068996
+            ],
+            [
+              139.54187611024676,
+              35.739450362065824
+            ],
+            [
+              139.54184771410357,
+              35.73947353389718
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "group_id": "G1",
+        "area_id": "ind-pos",
+        "plant_ids": "G1-P01,G1-P02,G1-P03,G1-P04",
+        "photo_sequence": 19,
+        "file_suffix": "G1-019",
+        "sensor": "M3M-RGB",
+        "aircraft": "DJI Mavic 3 Multispectral",
+        "payload": "Integrated RGB + G/R/RE/NIR",
+        "target_agl_m": 1.5,
+        "orbit_radius_m": 1.5,
+        "orbit_angle_deg": 308.57142857142856,
+        "heading_deg": -38.57142857254246,
+        "gimbal_pitch_deg": -45.0,
+        "camera_ground_dsm_wgs84_m": 96.57209014892578,
+        "camera_wgs84_height_m": 98.07209014892578,
+        "target_dsm_wgs84_m": 96.5753402709961,
+        "horizontal_fov_deg": 71.55192511237404,
+        "vertical_fov_deg": 56.728598025722256,
+        "footprint_area_m2": 19.642541335949872,
+        "overlap_to_next_pct": 82.16229774120193,
+        "all_four_plants_covered": true,
+        "minimum_plant_edge_margin_m": 0.5526958863439866
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.54182817911303,
+              35.73946650340401
+            ],
+            [
+              139.54188480735928,
+              35.739504457757164
+            ],
+            [
+              139.5418969863292,
+              35.739459382825714
+            ],
+            [
+              139.5418800662896,
+              35.73944804239024
+            ],
+            [
+              139.54182817911303,
+              35.73946650340401
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "group_id": "G1",
+        "area_id": "ind-pos",
+        "plant_ids": "G1-P01,G1-P02,G1-P03,G1-P04",
+        "photo_sequence": 19,
+        "file_suffix": "G1-019",
+        "sensor": "M3M-MS",
+        "aircraft": "DJI Mavic 3 Multispectral",
+        "payload": "Integrated RGB + G/R/RE/NIR",
+        "target_agl_m": 1.5,
+        "orbit_radius_m": 1.5,
+        "orbit_angle_deg": 308.57142857142856,
+        "heading_deg": -38.57142857254246,
+        "gimbal_pitch_deg": -45.0,
+        "camera_ground_dsm_wgs84_m": 96.57209014892578,
+        "camera_wgs84_height_m": 98.07209014892578,
+        "target_dsm_wgs84_m": 96.5753402709961,
+        "horizontal_fov_deg": 61.2,
+        "vertical_fov_deg": 48.1,
+        "footprint_area_m2": 10.43027109455389,
+        "overlap_to_next_pct": 84.47018698538008,
+        "all_four_plants_covered": true,
+        "minimum_plant_edge_margin_m": 0.42686177751962884
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.5418449076815,
+              35.73946487925361
+            ],
+            [
+              139.54188352591484,
+              35.739490762625614
+            ],
+            [
+              139.5418950355108,
+              35.73945954373558
+            ],
+            [
+              139.5418802500148,
+              35.739449633949974
+            ],
+            [
+              139.5418449076815,
+              35.73946487925361
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "group_id": "G1",
+        "area_id": "ind-pos",
+        "plant_ids": "G1-P01,G1-P02,G1-P03,G1-P04",
+        "photo_sequence": 20,
+        "file_suffix": "G1-020",
+        "sensor": "M3M-RGB",
+        "aircraft": "DJI Mavic 3 Multispectral",
+        "payload": "Integrated RGB + G/R/RE/NIR",
+        "target_agl_m": 1.5,
+        "orbit_radius_m": 1.5,
+        "orbit_angle_deg": 325.7142857142857,
+        "heading_deg": -55.71428571284693,
+        "gimbal_pitch_deg": -45.0,
+        "camera_ground_dsm_wgs84_m": 96.6017837524414,
+        "camera_wgs84_height_m": 98.1017837524414,
+        "target_dsm_wgs84_m": 96.5753402709961,
+        "horizontal_fov_deg": 71.55192511237404,
+        "vertical_fov_deg": 56.728598025722256,
+        "footprint_area_m2": 20.429637947243933,
+        "overlap_to_next_pct": 81.37288549222885,
+        "all_four_plants_covered": true,
+        "minimum_plant_edge_margin_m": 0.6410976961248362
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.54182724020816,
+              35.7394535340751
+            ],
+            [
+              139.5418684320323,
+              35.73950440001769
+            ],
+            [
+              139.54189692032924,
+              35.73946345792518
+            ],
+            [
+              139.54188461255538,
+              35.739448259615614
+            ],
+            [
+              139.54182724020816,
+              35.7394535340751
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "group_id": "G1",
+        "area_id": "ind-pos",
+        "plant_ids": "G1-P01,G1-P02,G1-P03,G1-P04",
+        "photo_sequence": 20,
+        "file_suffix": "G1-020",
+        "sensor": "M3M-MS",
+        "aircraft": "DJI Mavic 3 Multispectral",
+        "payload": "Integrated RGB + G/R/RE/NIR",
+        "target_agl_m": 1.5,
+        "orbit_radius_m": 1.5,
+        "orbit_angle_deg": 325.7142857142857,
+        "heading_deg": -55.71428571284693,
+        "gimbal_pitch_deg": -45.0,
+        "camera_ground_dsm_wgs84_m": 96.6017837524414,
+        "camera_wgs84_height_m": 98.1017837524414,
+        "target_dsm_wgs84_m": 96.5753402709961,
+        "horizontal_fov_deg": 61.2,
+        "vertical_fov_deg": 48.1,
+        "footprint_area_m2": 10.848222666533886,
+        "overlap_to_next_pct": 83.66131846034162,
+        "all_four_plants_covered": true,
+        "minimum_plant_edge_margin_m": 0.5127671995806247
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.5418441415384,
+              35.739456051079365
+            ],
+            [
+              139.54187223274334,
+              35.73949073964714
+            ],
+            [
+              139.54189495986898,
+              35.7394631366359
+            ],
+            [
+              139.54188420477956,
+              35.73944985566541
+            ],
+            [
+              139.5418441415384,
+              35.739456051079365
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "group_id": "G1",
+        "area_id": "ind-pos",
+        "plant_ids": "G1-P01,G1-P02,G1-P03,G1-P04",
+        "photo_sequence": 21,
+        "file_suffix": "G1-021",
+        "sensor": "M3M-RGB",
+        "aircraft": "DJI Mavic 3 Multispectral",
+        "payload": "Integrated RGB + G/R/RE/NIR",
+        "target_agl_m": 1.5,
+        "orbit_radius_m": 1.5,
+        "orbit_angle_deg": 342.85714285714283,
+        "heading_deg": -72.85714285415621,
+        "gimbal_pitch_deg": -45.0,
+        "camera_ground_dsm_wgs84_m": 96.5870361328125,
+        "camera_wgs84_height_m": 98.0870361328125,
+        "target_dsm_wgs84_m": 96.5753402709961,
+        "horizontal_fov_deg": 71.55192511237404,
+        "vertical_fov_deg": 56.728598025722256,
+        "footprint_area_m2": 20.036786072870576,
+        "overlap_to_next_pct": 83.03502468911876,
+        "all_four_plants_covered": true,
+        "minimum_plant_edge_margin_m": 0.7785699499986871
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.54183297465582,
+              35.73944107427628
+            ],
+            [
+              139.54185374393654,
+              35.739499013936246
+            ],
+            [
+              139.54189536261433,
+              35.73946704864134
+            ],
+            [
+              139.5418891569189,
+              35.739449736762836
+            ],
+            [
+              139.54183297465582,
+              35.73944107427628
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "group_id": "G1",
+        "area_id": "ind-pos",
+        "plant_ids": "G1-P01,G1-P02,G1-P03,G1-P04",
+        "photo_sequence": 21,
+        "file_suffix": "G1-021",
+        "sensor": "M3M-MS",
+        "aircraft": "DJI Mavic 3 Multispectral",
+        "payload": "Integrated RGB + G/R/RE/NIR",
+        "target_agl_m": 1.5,
+        "orbit_radius_m": 1.5,
+        "orbit_angle_deg": 342.85714285714283,
+        "heading_deg": -72.85714285415621,
+        "gimbal_pitch_deg": -45.0,
+        "camera_ground_dsm_wgs84_m": 96.5870361328125,
+        "camera_wgs84_height_m": 98.0870361328125,
+        "target_dsm_wgs84_m": 96.5753402709961,
+        "horizontal_fov_deg": 61.2,
+        "vertical_fov_deg": 48.1,
+        "footprint_area_m2": 10.63961668888157,
+        "overlap_to_next_pct": 85.31336035062009,
+        "all_four_plants_covered": true,
+        "minimum_plant_edge_margin_m": 0.6038557417331956
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.54184806787322,
+              35.739447478530835
+            ],
+            [
+              139.54186223171035,
+              35.73948699109643
+            ],
+            [
+              139.5418936223866,
+              35.73946627802647
+            ],
+            [
+              139.54188819956946,
+              35.7394511501239
+            ],
+            [
+              139.54184806787322,
+              35.739447478530835
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

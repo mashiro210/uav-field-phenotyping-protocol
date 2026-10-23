@@ -1,0 +1,94 @@
+{
+  "type": "FeatureCollection",
+  "name": "plant-locations",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": null,
+        "point_no": 4,
+        "fitted_line": "west",
+        "snap_distance_m": 0.017055567619536305,
+        "original_x_epsg6677": -26361.832897351058,
+        "original_y_epsg6677": -28867.0077138037,
+        "snapped_x_epsg6677": -26361.849952918677,
+        "snapped_y_epsg6677": -28867.0077138037,
+        "group_id": "G1",
+        "plant_id": "G1-P01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.54188247064474,
+          35.73945610355901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": null,
+        "point_no": 3,
+        "fitted_line": "west",
+        "snap_distance_m": 0.022515571987680713,
+        "original_x_epsg6677": -26361.90870163806,
+        "original_y_epsg6677": -28866.63158671219,
+        "snapped_x_epsg6677": -26361.930703034723,
+        "snapped_y_epsg6677": -28866.63637101223,
+        "group_id": "G1",
+        "plant_id": "G1-P02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.54188156570126,
+          35.739459448499844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": null,
+        "point_no": 2,
+        "fitted_line": "west",
+        "snap_distance_m": 0.013130715019430273,
+        "original_x_epsg6677": -26362.02054722158,
+        "original_y_epsg6677": -28866.2850025742,
+        "snapped_x_epsg6677": -26362.00771636524,
+        "snapped_y_epsg6677": -28866.282212448306,
+        "group_id": "G1",
+        "plant_id": "G1-P03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.54188070263478,
+          35.739462638650494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1.0,
+        "point_no": 1,
+        "fitted_line": "west",
+        "snap_distance_m": 0.001869800463340842,
+        "original_x_epsg6677": -26362.090512176375,
+        "original_y_epsg6677": -28865.91026172628,
+        "snapped_x_epsg6677": -26362.088685075483,
+        "snapped_y_epsg6677": -28865.90986441519,
+        "group_id": "G1",
+        "plant_id": "G1-P04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.54187979524144,
+          35.739465992646245
+        ]
+      }
+    }
+  ]
+}
