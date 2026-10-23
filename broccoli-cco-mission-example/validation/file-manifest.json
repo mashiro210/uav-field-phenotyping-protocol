@@ -1,0 +1,19 @@
+{
+  ".gitignore": "544272bdceaf78da545b748174596efa80759e4a31e72562ca4d69546ae1721d",
+  "README.md": "5208276cbec2ff3f3be85645c5514610190fc033e19cb277da18f8bf0eed9af5",
+  "data/observation-center.geojson": "65beed58fb88d2a27e7677ec86a49c7e5e5a3cf2bc39bdefa2f02dbf9a23f452",
+  "data/plant-locations.geojson": "1ceae200fbf1ef7c5be48281eb4060cafcbb3f15a08518392add6c95fae86ed9",
+  "data-notes.md": "bd48a5c976f3cadde7cae973725dacf83ae18da6ff508c13b7ee7bee9de62041",
+  "flighthub2-mission-preview.png": "4013908e51ebf72e62b5ac6f71e0c32c7af00e774cba702fb18c37f9198b8f6e",
+  "prompt.ja.md": "aa59844c12ca1d0cec42588c3c6d8d04138e77c910110f0b4260313366a71c06",
+  "requirements.txt": "340813a0c02e2c5376b9f0e4533cf4eac122b8b8f59c3bbeedf0217a362fca7b",
+  "results/M3M-CCO-150cm.kmz": "ab01df61c3ef5f3598e5a21b263e3dcd2bf08a8b61ba9624ddd7edbf50f108b0",
+  "results/gis/estimated-footprints-rgb-ms.geojson": "f6cd5548f9be602a814c5cc504d7cf7b68572b7d73476f1ab22ae0e56b252973",
+  "results/gis/photo-positions.geojson": "ec9c803465ba1177f8271828fdf01541771243f0bc4b07d46af10fc96e6653c3",
+  "src/cco_core.py": "bdc3eaf54ea08a7da894c54fa8e6b0048ab324947475d3bd20b2142dae226113",
+  "src/generate_mission.py": "ce1aa8543768f9b0924a7c07e096950c5fb4faf09c305c87d18f09cb9d6741f3",
+  "src/waypoint_builder.py": "bde6f7d463d721627a4e0cbe576b2a47a85510fd77924b38790e9a361be95232",
+  "test_example.py": "84fb0f187d46cd2baeefba789dc6a82462d3901d7959075f4364c70e70fe95cf",
+  "validation/mission-control-checksums.json": "694311dc9fe5cbb782843888826f137dc38a4efa038035de9023b39bb8d5219a",
+  "validation/report.json": "5cfab60cd8c34e6cb292ace8d5ebb28d7fdd7b0e2a860127af7cec2eb0492ce9"
+}
